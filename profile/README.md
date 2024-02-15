@@ -1,6 +1,4 @@
-### Textpattern plugins and tools
-
-## Textpattern
+## Textpattern plugins and tools
 
 * [**ais_feed**](https://github.com/alieninternet/ais_feed) - Feed syndication plugin for Textpattern <br />
   _Syndicate items from RSS and Atom feeds on your site_
