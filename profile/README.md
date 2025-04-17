@@ -13,5 +13,5 @@
 * [**ais_txpplugin_packager**](https://github.com/alieninternet/ais_txpplugin_packager) - Packaging tool for Textpattern plugins <br />
   _Generate text packages compatible with Textpattern 4.8.x_
 
-* [**build_txpplugin_txt**](https://github.com/alieninternet/build_txpplugin_txt) - GitHub action for building and and releasing Textpattern plugins <br />
+* [**build-txpplugin-txt**](https://github.com/alieninternet/build-txpplugin-txt) - GitHub action for building and and releasing Textpattern plugins <br />
   _Automatically build and release Textpattern plugins as TXT packages using GitHub actions in your repository's CI workflow_
